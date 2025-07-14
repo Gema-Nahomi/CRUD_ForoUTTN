@@ -1,0 +1,6 @@
+@CRUD_ForoUTTN_HostAddress = http://localhost:5158
+
+GET {{CRUD_ForoUTTN_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
